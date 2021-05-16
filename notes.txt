@@ -1,0 +1,10 @@
+inline elements -> width is the content
+outline blocks -> can take width and height
+border ex:
+border: solid 1px #cc00aa;
+border-width:3px; all
+border-width:3px 10px; top sides
+border-width:3px 10px 20px; top sides bottom
+border-width:3px 10px 20px 1px; top right bottom left
+
+margin
